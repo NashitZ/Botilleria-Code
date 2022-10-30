@@ -11,6 +11,7 @@ class Products
    Expiration_date= #fecha de vencimiento
    Cuantity= #cantidad del producto
    Supplier= #Empresa proveedora
+   Qr_code= #numero de codigo qr
 
  }
 class Client
