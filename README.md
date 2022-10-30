@@ -28,8 +28,9 @@ class Client
  #Fin secciion Atributos##
    
  ##metodos (funcion)##
- Replenish_products(newproducts) #reponer los productos
- Clean_shop(Clean) #mantener la limpieza del local
- Serve_customers(service) #atender clientes
- defuntion_date(date) #en caso de que fallecio
-   
+{
+
+   Replenish_products(newproducts) #reponer los productos
+   Clean_shop(Clean) #mantener la limpieza del local
+   Serve_customers(service) #atender cliente
+}
