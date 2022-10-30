@@ -28,8 +28,8 @@ class Client
  #Fin secciion Atributos##
    
  ##metodos (funcion)##
- change_weight(newweight) #cambiar peso mascota
- change_age(age) #cambiar edad mascota en caso de no saber la fecha de nacimiento
- change_height(newheight) #cambiar altura de la mascota
+ Replenish_products(newproducts) #reponer los productos
+ Clean_shop(Clean) #mantener la limpieza del local
+ Serve_customers(service) #atender clientes
  defuntion_date(date) #en caso de que fallecio
    
