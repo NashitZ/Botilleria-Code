@@ -14,6 +14,8 @@ class Products
    Qr_code= #numero de codigo qr
 
  }
+ #Fin secciion Atributos##
+
 class Client
 {
    #Atributos#
@@ -29,8 +31,10 @@ class Client
    
  ##metodos (funcion)##
 {
-
+   Open_shop(open) #abrir la tienda
    Replenish_products(newproducts) #reponer los productos
    Clean_shop(Clean) #mantener la limpieza del local
    Serve_customers(service) #atender cliente
+   Close_shop(close( #cerrar la tienda
+   
 }
