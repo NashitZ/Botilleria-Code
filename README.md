@@ -35,6 +35,6 @@ class Client
    Replenish_products(newproducts) #reponer los productos
    Clean_shop(Clean) #mantener la limpieza del local
    Serve_customers(service) #atender cliente
-   Close_shop(close( #cerrar la tienda
+   Close_shop(close) #cerrar la tienda
    
 }
